@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name":"Carlos Salamanca",
+    "occupation":"Web & Mobile Developer",
+    "description":"I'm a guy from Colombia always exploring new technologies and challenges.",
+    "image":"profilepic.jpg",
+    "bio":"I think that we always have to innovate in technology issues and keep abreast of new developments that come to the public every day. That is why in the projects in which I participate I like to be in constant learning and give my best to my clients.",
+    "contactmessage":"You can contact me here",
+    "email": "salamancacmcol@gmail.com",
+    "phone": "+57 310 567 4920",
+    "address":{
+      "street":"Bogotá",
+      "city":"Bogotá",
+      "state":"Colombia",
+      "zip": "111101"
+    },
+    "website": "http://salamancacm.com",
+    "resumedownload":"http://salamancacm.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/salamancacm",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/salamancacm7",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/salamancac",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/salamancacm",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/HmJBi9pzVNHk",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is the skills of Carlos",
+    "education":[
+      {
+        "school":"Polytechnic University Institute Santiago mariño",
+        "degree":"System's Engineer",
+        "graduated":"Februeary 2016",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Fit Ideas",
+        "title":"Web & Mobile Development Specialist",
+        "years":"September 2016 - Present",
+        "description":"Development of customized technological solutions. Development of financial solutions."
+      },
+      {
+        "company":"PDVSA Petroleos de Venezuela",
+        "title":"IT Analyst",
+        "years":"August 2014 - August 2016",
+        "description":"Develop tools for maintain and safeguard the information platform of the company"
+      },
+      {
+        "company":"PDVSA Petroleos de Venezuela",
+        "title":"Systems Protection Analyst",
+        "years":"February 2014 - August 2014",
+        "description":"Installation and maintenance of electronic protection equipment, CCTV, intrusion detection systems, access control (pedestrian turnstiles and vehicle barriers) and development of web services"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS (This page is made on ReactJS)",
+        "level":"70%"
+      },
+      {
+        "name":"React Native",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      },
+      {
+        "name":"JSON",
+        "level":"50%"
+      }
+    ]
+  }
+}
